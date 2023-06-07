@@ -1,0 +1,15 @@
+7 locations
+    - Columbus
+    - Postdam
+    - Selwyn
+    - Toronto
+    - Utah
+    - Vaihingen
+
+Size of images
+    - Columbus: 4965 x 3313 / 3
+    - Postdam:  2220 x 2220 / 13
+    - Selwyn:   18075 x 18400 / 1 - 14251 x 19949 /2
+    - Toronto:  11500 x 7500 / 3
+    - Utah:     9013 x 9013 / 10 (varied sizes each) 
+    - Vaihingen:12150 x 12780
