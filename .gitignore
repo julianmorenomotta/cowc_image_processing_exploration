@@ -1,2 +1,6 @@
+# datasets folders
 cowc-m/
 gdo152.ucllnl.org/
+
+# binaries
+*.mp4
