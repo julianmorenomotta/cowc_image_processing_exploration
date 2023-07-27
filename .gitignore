@@ -1,6 +1,15 @@
 # datasets folders
 cowc-m/
+cowc/
 gdo152.ucllnl.org/
+
+# generated files
+selfgenerated_detection_patches/
+selfgenerated_detection_patches_288_False/
+selfgenerated_detection_patches_320_True/
+DetectionPatches_512x512_ALL
+DetectionPatches_512x512_No-New-Zealand/
 
 # binaries
 *.mp4
+*.jpg
