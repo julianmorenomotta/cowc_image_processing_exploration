@@ -1,3 +1,5 @@
+## Notes about the Dataset COWC
+
 7 locations
     - Columbus
     - Postdam
@@ -23,3 +25,8 @@ The layers have this content:
     - Negative ID (dot whitout a car)
 COWC - M
 is the extension of the dataset that anotates the cars with different types of cars
+
+## Resources
+
+All the work done in this repo is based and uses the following dataset
+https://gdo152.llnl.gov/cowc/
